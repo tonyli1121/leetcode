@@ -86,7 +86,7 @@ Although there is an improvement on the algorithm running time, it is still not 
 
 ---
 
-Optimal solution:
+## Optimal solution:
 
 use enumerate to keep track of value - index, store in a dictionary. Then look up the remaining value of current iteration from the dictionary (O(1) look up for dict)
 
@@ -101,6 +101,6 @@ class Solution:
                 return [i, seen[remaining]]
             
             seen[value] = i 
-            ```
+```
 
 
