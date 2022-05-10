@@ -43,7 +43,6 @@ class Solution:
         else:
             return mid
     
-    
     '''
     Modify the given list nums using binary insertion sort, time comlexity O(nlogn)
     '''
@@ -67,20 +66,41 @@ class Solution:
             if (nums[i] + nums[res] == target):
                 res_1 = i
                 res_2 = res
-
         # refer back to original list for index
         for i in range(0,end):
             if nums_copy[i] == nums[res_1]:
                 res_1 = i
                 break
-                
         for i in range(0,end):
             if nums_copy[i] == nums[res_2]:
                 if (i == res_1):
                     continue
                 res_2 = i
                 break
-
         return [res_1, res_2]
-        
 ```
+
+![image](https://user-images.githubusercontent.com/53313027/167701099-aeec18c1-5669-4537-80ad-332d55cb528c.png)
+
+Although there is an improvement on the algorithm running time, it is still not optimal. One of the problem I think is that I used some O(n) loop too many times.
+
+---
+
+Optimal solution:
+
+use enumerate to keep track of value - index, store in a dictionary. Then look up the remaining value of current iteration from the dictionary (O(1) look up for dict)
+
+``` python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        seen = {}
+        for i, value in enumerate(nums):
+            remaining = target - nums[i]
+           
+            if remaining in seen:
+                return [i, seen[remaining]]
+            
+            seen[value] = i 
+            ```
+
+
