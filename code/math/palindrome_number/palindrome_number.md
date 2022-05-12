@@ -2,9 +2,12 @@
 
 **Difficulty** :star:
 
+## Question Description
+
 ![image](https://user-images.githubusercontent.com/53313027/167973518-d5acb59f-e0ef-4025-92b9-4d7d55a9881b.png)
 
----
+## Approach #1
+
 Initially I started with the brute force algorithm, which may take up to **O(N) time complexity**
 ```python
 class Solution:
@@ -15,7 +18,7 @@ class Solution:
 Although it passed by beating 27.5% users, it doesn't seem to be a good algorithm
 ![image](https://user-images.githubusercontent.com/53313027/167973738-03b78bee-c943-4733-908d-9647ef910a0b.png)
 
----
+## Approach #2
 
 To improve, I considered to use heap to keep track of the elements, which seem to be a better aproach.
 
@@ -48,8 +51,6 @@ However, this seem to be a even worse approach, I'm assuming it's caused by usin
 
 ![image](https://user-images.githubusercontent.com/53313027/167974860-31558c0d-da59-4f5f-9e26-05ee23acab08.png)
 
-
----
 
 ## Optimal solution:
 
