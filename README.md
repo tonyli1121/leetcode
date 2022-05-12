@@ -10,3 +10,8 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 ## Array
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/ "Two-Sum") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/two_sum/two_sum.py "Two-Sum Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/array/two_sum/two_sum.md "Two-Sum Report")] :star: 
+
+
+## Math
+
+[9. Palindrome Number]https://leetcode.com/problems/palindrome-number/ "Palindrome-Number") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/math/palindrome_number/palindrome_number.py "Palindrome-Number Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/math/palindrome_number/palindrome_number.md "Palindrome-Number Report")] :star: 
