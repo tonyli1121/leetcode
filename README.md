@@ -21,4 +21,4 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 
 ## Stack
 
-[13. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/ "Valid-Parentheses") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/stack/valid_parentheses/valid_parentheses.py Valid-Parentheses Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/stack/valid_parentheses/valid_parentheses.md "Valid-Parentheses Report")] :star: 
+[13. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/ "Valid-Parentheses") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/stack/valid_parentheses/valid_parentheses.py "Valid-Parentheses Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/stack/valid_parentheses/valid_parentheses.md "Valid-Parentheses Report")] :star: 
