@@ -15,3 +15,5 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 ## Math
 
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/ "Palindrome-Number") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/math/palindrome_number/palindrome_number.py "Palindrome-Number Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/math/palindrome_number/palindrome_number.md "Palindrome-Number Report")] :star: 
+
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/ "Roman-To-Integer") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/math/roman_to_int/roman_to_int.py "Roman-To-Integer Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/math/roman_to_int/roman_to_int.md "Roman-To-Integer Report")] :star: 
