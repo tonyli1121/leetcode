@@ -4,8 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/53313027/168444919-22fcd8bf-403c-4122-b7c3-3720ebf5ea79.png)
 
----
-
 ## Solution:
 
 Use stack's LIFO property to keep track on the brackets
