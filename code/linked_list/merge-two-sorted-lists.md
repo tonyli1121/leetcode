@@ -146,20 +146,17 @@ class Solution:
         prev = None # Most important pointer it will make all the links
         
         while head1 != None and head2 != None:
-            
             if head1.val <= head2.val:
-                
                 if prev != None:
                     prev.next = head1
                 prev = head1
-                head1 = head1.next
-            
+                head1 = head1.next         
             else:
                 if prev != None:
                     prev.next = head2
                 prev = head2
                 head2 = head2.next
-            
+                
         if head1 != None:
             prev.next = head1
         else:
