@@ -2,6 +2,8 @@
 
 **Difficulty** :star:
 
+As suggested, [Merge Sort](https://www.geeksforgeeks.org/merge-sort-for-linked-list/ "Merge sort") is often preferred for sorting a linked list. And this is something I need to keep in mind of.
+
 ## Question Description
 
 ![image](https://user-images.githubusercontent.com/53313027/168486494-4e481e12-f8ff-42b7-a32d-ce36ba5a4769.png)
