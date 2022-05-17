@@ -22,8 +22,6 @@ class Solution:
 
 The space complexity is O(1) and the time complexity is O(n)
 
-![image](https://user-images.githubusercontent.com/53313027/168444951-c0cc0bac-1ffa-4f78-91c5-82cd019bc194.png)
-
 ## Approach 2:
 
 add another variable size, which helps us determine when to break the loop.
