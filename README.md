@@ -11,6 +11,8 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/ "Two-Sum") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/two_sum/two_sum.py "Two-Sum Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/array/two_sum/two_sum.md "Two-Sum Report")] :star: 
 
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/ "Remove Duplicates from Sorted Array") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py "Remove Duplicates from Sorted Array Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/array/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.md "Remove Duplicates from Sorted Array Report")] :star: 
+
 ## Linked List
 
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/ "Merge-Two-Sorted-Lists") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/linked_list/merge-two-sorted-lists/merge-two-sorted-lists.py "Merge-Two-Sorted-Lists")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/stack/merge-two-sorted-lists/merge-two-sorted-lists.md "Merge-Two-Sorted-Lists")] :star: 
