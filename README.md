@@ -30,4 +30,4 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 
 ## String
 
-[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/ "Implement-strStr") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.py "Implement-strStr Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/stack/implement-strStr/implement-strStr.md "Implement-strStr Report")] :star: 
+[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/ "Implement-strStr") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.py "Implement-strStr Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.md "Implement-strStr Report")] :star: 
