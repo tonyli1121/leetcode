@@ -34,4 +34,4 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 
 ## Tree
 
-[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/ "find-corresponding-node-of-clone") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.py "Implement-strStr Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.md "Implement-strStr Report")] :star: 
+[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/ "find-corresponding-node-in-clone") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/tree/find-corresponding-node-in-clone/find-corresponding-node-in-clone.py "find-corresponding-node-in-clone Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/tree/find-corresponding-node-in-clone/find-corresponding-node-in-clone.md "find-corresponding-node-in-clone Report")] :star: 
