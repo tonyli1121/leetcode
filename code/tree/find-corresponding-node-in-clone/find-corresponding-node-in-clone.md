@@ -6,7 +6,8 @@ Keep in mind that DFS is preferred in interview than BFS
 
 **Theory -**
 
-For *DFS*, *depth of recurrence(extra space required) is equal to height of tree* and for balanced tree it will be log(n) so Space complexity is **O(log n)**.
+For *DFS*, *depth of recurrence(extra space required) is equal to height of tree* and for balanced tree it will be log(n), so Space complexity is **O(log n)**.
+
 For *BFS*, *lowest layer of tree will have n/2 nodes* and hence queue will grow to n/2 size while processing lowest layer of tree. Space complexity is **O(n)**.
 
 **Practically -**
