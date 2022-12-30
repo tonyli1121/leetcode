@@ -13,12 +13,12 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/ "Remove Duplicates from Sorted Array") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py "Remove Duplicates from Sorted Array Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/array/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.md "Remove Duplicates from Sorted Array Report")] :star: *Array, Two Pointers*
 
-[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "maximum-subarray") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/maximum-subarray/maximum-subarray.py "maximum-subarray Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/array/maximum-subarray/maximum-subarray "maximum-subarray Report")] :star:  *Array, Dynamic Programming, Divide and Conquer*
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "maximum-subarray") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/maximum-subarray/maximum-subarray.py "maximum-subarray Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/array/maximum-subarray/maximum-subarray.md "maximum-subarray Report")] :star:  *Array, Dynamic Programming, Divide and Conquer*
 
 
 ## Linked List
 
-[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/ "Merge-Two-Sorted-Lists") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/linked_list/merge-two-sorted-lists/merge-two-sorted-lists.py "Merge-Two-Sorted-Lists")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/stack/merge-two-sorted-lists/merge-two-sorted-lists.md "Merge-Two-Sorted-Lists")] :star: *Linked List, Recursion*
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/ "Merge-Two-Sorted-Lists") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/linked_list/merge-two-sorted-lists.py "Merge-Two-Sorted-Lists")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/linked_list/merge-two-sorted-lists.md "Merge-Two-Sorted-Lists")] :star: *Linked List, Recursion*
 
 ## Math
 
