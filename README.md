@@ -15,6 +15,8 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "maximum-subarray") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/maximum-subarray/maximum-subarray.py "maximum-subarray Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/array/maximum-subarray/maximum-subarray.md "maximum-subarray Report")] :star:  *Array, Dynamic Programming, Divide and Conquer*
 
+[66. Plus One](https://leetcode.com/problems/plus-one/ "plus-one") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/plus-one/plus-one.py.py "plus-one Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/array/plus-one/plus-one.md "plus-one Report")] :star:  *Array
+Math*
 
 ## Linked List
 
