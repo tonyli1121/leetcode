@@ -28,6 +28,7 @@ Math*
 
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/ "Roman-To-Integer") [[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/math/roman_to_int/roman_to_int.py "Roman-To-Integer Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/math/roman_to_int/roman_to_int.md "Roman-To-Integer Report")] :star: *Hash Table, Math, String*
 
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/ "Sqrt(x)") [[Solution]https://github.com/tonyli1121/leetcode/blob/main/code/math/sqrt(x)/sqrt(x).py "Sqrt(x) Solution")]  [[Report](https://github.com/tonyli1121/leetcode/blob/main/code/math/sqrt(x)/sqrt(x).md "Sqrt(x) Report")] :star: *Math, Binary Search*
 
 ## Stack
 
