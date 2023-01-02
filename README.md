@@ -16,6 +16,14 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "maximum-subarray") |[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/maximum-subarray/maximum-subarray.py "maximum-subarray Solution") | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/array/maximum-subarray/maximum-subarray.md "maximum-subarray ExplainationExplainationExplainationExplaination") |:star: | *Array, Dynamic Programming, Divide and Conquer*|
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/ "plus-one") | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/array/plus-one/plus-one.py.py "plus-one Solution") | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/array/plus-one/plus-one.md "plus-one Explaination") |:star: | *Array Math* |
 
+## Dynamic Programming
+
+| # | Problem | | | Difficulty | Related Topics |
+| --- | --- | --- | --- | --- | --- |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/ "Climbing Stairs") | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Climbing_Stairs/climbing_stairs.py "Climbing Stairs Solution") | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Climbing_Stairs/climbing_stairs.md "Climbing Stairs Explaination")| :star:| *Dynamic Programming, Memoization, Math* |
+
+
+
 ## Linked List
 
 | # | Problem | | | Difficulty | Related Topics |
