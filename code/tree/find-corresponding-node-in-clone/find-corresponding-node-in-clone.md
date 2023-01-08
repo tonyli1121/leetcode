@@ -40,8 +40,6 @@ class Solution:
 ```
 
 This is quite slow in time as it traverse all nodes, however, there's no other way than check every single node as it is unsorted. Otherwise we could consider sort it first but it would take O(NlogN) time first for sorting and another O(logN) to search
-![image](https://user-images.githubusercontent.com/53313027/169117732-017b882c-977f-4d67-b406-ae97149010f6.png)
-
 
 
 
