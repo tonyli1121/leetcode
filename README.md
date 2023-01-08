@@ -52,7 +52,7 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 
 | # | Problem | | | Difficulty | Related Topics |
 | --- | --- | --- | --- | --- | --- |
-|28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/ "Implement-strStr") | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.py "Implement-strStr Solution") | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.md "Implement-strStr Explaination") | :star: | *Two Pointers, String, String Matching* |
+|28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/implement-strstr/ "Implement-strStr") | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.py "Implement-strStr Solution") | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.md "Implement-strStr Explaination") | :star::star: | *Two Pointers, String, String Matching* |
 
 ## Tree
 
