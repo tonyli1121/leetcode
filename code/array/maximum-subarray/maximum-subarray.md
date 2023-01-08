@@ -52,7 +52,6 @@ class Solution:
 The time is O(N)
 
 
-![image](https://user-images.githubusercontent.com/53313027/169419443-712c585f-15be-45be-80ee-223252d365a6.png)
 
 
 
