@@ -25,7 +25,7 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 | # | Problem | | | Difficulty | Related Topics |
 | --- | --- | --- | --- | --- | --- |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/ "Climbing Stairs") | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Climbing_Stairs/climbing_stairs.py "Climbing Stairs Solution") | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Climbing_Stairs/climbing_stairs.md "Climbing Stairs Explaination")| :star:| *Dynamic Programming, Memoization, Math* |
-
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Pascal_Triangle/pascal_triangle.py) | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Pascal_Triangle/pascal_triangle.md) | :star: | *Array, Dynamic Programming* |
 
 
 ## Linked List
