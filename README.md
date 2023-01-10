@@ -26,6 +26,7 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 | --- | --- | --- | --- | --- | --- |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/ "Climbing Stairs") | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Climbing_Stairs/climbing_stairs.py "Climbing Stairs Solution") | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Climbing_Stairs/climbing_stairs.md "Climbing Stairs Explaination")| :star:| *Dynamic Programming, Memoization, Math* |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Pascal_Triangle/pascal_triangle.py) | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/Pascal_Triangle/pascal_triangle.md) | :star: | *Array, Dynamic Programming* |
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/best%20time%20to%20buy%20and%20sell%20stock/buy_and_sell_stock.py) | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/dynamic_programming/best%20time%20to%20buy%20and%20sell%20stock/buy_and_sell_stock.md) | :star: | *Array, Dynamic Programming*|
 
 
 ## Linked List
