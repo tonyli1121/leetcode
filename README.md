@@ -33,6 +33,7 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 | # | Problem | | | Difficulty | Related Topics |
 | --- | --- | --- | --- | --- | --- |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/ "Merge-Two-Sorted-Lists") | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/linked_list/merge_two_sorted_list/merge-two-sorted-lists.py "Merge-Two-Sorted-Lists Solution") | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/linked_list/merge_two_sorted_list/merge-two-sorted-lists.md "Merge-Two-Sorted-Lists Explaination")| :star:| *Linked List, Recursion*|
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/linked_list/linked-list-cycle/linked_list_cycle.py) | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/linked_list/linked-list-cycle/linked_list_cycle.md) | *star* | *Linked List, Two Pointers*
 
 ## Math
 
