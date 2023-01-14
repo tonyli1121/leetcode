@@ -54,6 +54,7 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 | # | Problem | | | Difficulty | Related Topics |
 | --- | --- | --- | --- | --- | --- |
 |28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/implement-strstr/ "Implement-strStr") | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.py "Implement-strStr Solution") | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/string/implement-strStr/implement-strStr.md "Implement-strStr Explaination") | :star::star: | *Two Pointers, String, String Matching* |
+| 125 | [Valid Palidrome](https://leetcode.com/problems/valid-palindrome/description/) | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/string/Valid%20Palindrome/valid_palindrome.py) | [Explaination](https://github.com/tonyli1121/leetcode/blob/main/code/string/Valid%20Palindrome/valid_palindrome.md) | :star: | *Two Pointers, String* |
 
 ## Tree
 
