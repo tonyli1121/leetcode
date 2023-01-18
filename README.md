@@ -44,6 +44,7 @@ Algorithm practices with solution and thoughts. The codes are written using pyth
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/ "Palindrome-Number") | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/math/palindrome_number/palindrome_number.py "Palindrome-Number Solution")|  [Explanation](https://github.com/tonyli1121/leetcode/blob/main/code/math/palindrome_number/palindrome_number.md "Palindrome-Number Explanation")| :star:| *Math*|
 |13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/ "Roman-To-Integer") |[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/math/roman_to_int/roman_to_int.py "Roman-To-Integer Solution")| [Explanation](https://github.com/tonyli1121/leetcode/blob/main/code/math/roman_to_int/roman_to_int.md "Roman-To-Integer")| :star: |*Hash Table, Math, String*|
 | 69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/ "Sqrt(x)") |[Solution](https://github.com/tonyli1121/leetcode/blob/main/code/math/sqrt(x)/sqrt(x).py "Sqrt(x) Solution")|  [Explanation](https://github.com/tonyli1121/leetcode/blob/main/code/math/sqrt(x)/sqrt(x).md "Sqrt(x) Explanation")| :star:| *Math, Binary Search*|
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Solution](https://github.com/tonyli1121/leetcode/blob/main/code/math/happy_number/happy_number.py) | [Explanation](https://github.com/tonyli1121/leetcode/blob/main/code/math/happy_number/happy_number.md) | :star: | *Hash Table, Math, Two Pointers* |
 
 ## Stack
 
