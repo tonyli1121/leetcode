@@ -1,4 +1,7 @@
-# Leetcode
+# Leetcode [PAUSED see reason below]
+
+Paused because it is so much cleaner and more convenient to record solutions and notes on leetcode website.
+
 Algorithm practices with solution and thoughts. The codes are written using python without calling any external libraries and using any IDE.
 
 :star: for *easy*
